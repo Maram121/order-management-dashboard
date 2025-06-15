@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Order Management Dashboard
 
 > Created by **Maram** for Tuniform
@@ -174,3 +175,6 @@ This project is created by Maram for Tuniform's technical assessment.
 **Maram** - Full Stack Developer  
 Created for Tuniform's technical assessment  
 © 2025 All rights reserved
+=======
+# order-management-dashboard
+>>>>>>> e860f5f61b527307606d0915b97680ac19520043
